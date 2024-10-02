@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/calc_off.png</file>
+        <file>icons/calc_on.png</file>
+        <file>icons/graphic_off.png</file>
+        <file>icons/graphic_on.png</file>
+        <file>icons/credit_off.png</file>
+        <file>icons/credit_on.png</file>
+        <file>icons/deposit_off.png</file>
+        <file>icons/deposit_on.png</file>
+        <file>icons/5Head.png</file>
+        <file>icons/clear.png</file>
+        <file>icons/graphic.png</file>
+        <file>icons/arrow_down.png</file>
+        <file>icons/arrow_up.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
